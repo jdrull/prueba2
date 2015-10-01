@@ -10,6 +10,7 @@ package prueba2;
  * @author a
  */
 public class Prueba2 {
+    
 
     /**
      * @param args the command line arguments
